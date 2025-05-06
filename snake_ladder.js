@@ -62,38 +62,38 @@ function large() {
 
     10: [
       {
-        question: "Which integer is greater: -4 or -9??",
-        answer: "-4",
+        question: "If you divide 56 by -7, what is the quotient?",
+        answer: "-8",
         consequence: 3,
         minus: -Math.floor(Math.random() * 5) - 1,
       },
       {
-        question: "Which integer is greater: -20 or 1?",
-        answer: "1",
+        question: "If you divide -18 by -3, what is the quotient?",
+        answer: "6",
         consequence: 3,
         minus: -Math.floor(Math.random() * 5) - 1,
       },
       {
-        question: "Which integer is greater: -19 or -29?",
-        answer: "-19",
+        question: "If you divide -64 by -8, what is the quotient?",
+        answer: "8",
         consequence: 3,
         minus: -Math.floor(Math.random() * 5) - 1,
       },
       {
-        question: "Which integer is greater: 25 or 9?",
+        question: "If you divide -90 by -15, what is the quotient?",
+        answer: "6",
+        consequence: 3,
+        minus: -Math.floor(Math.random() * 5) - 1,
+      },
+      {
+        question: "If you divide -36 by 6, what is the quotient?",
+        answer: "-6",
+        consequence: 3,
+        minus: -Math.floor(Math.random() * 5) - 1,
+      },
+      {
+        question: "If you divide -99 by -11, what is the quotient?",
         answer: "9",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 5) - 1,
-      },
-      {
-        question: "Which integer is greater than -15: 11 or -23?",
-        answer: "11",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 5) - 1,
-      },
-      {
-        question: "Which integer is greater than -5: 4 or -6?",
-        answer: "4",
         consequence: 3,
         minus: -Math.floor(Math.random() * 5) - 1,
       },
@@ -388,150 +388,76 @@ function large() {
     ],
     28: [
       {
-        question: "What is the absolute value of -15?",
-        answer: "15",
+        question: "If you subtract -3 from -9, what is the difference?",
+        answer: "-6",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What is the absolute value of -55?",
-        answer: "55",
+        question: "If you subtract -8 from -12, what is the difference?",
+        answer: "4",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What is the absolute value of -19?",
-        answer: "19",
+        question: "If you subtract -15 from -20, what is the difference?",
+        answer: "-5",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What is the absolute value of -16?",
-        answer: "16",
+        question: "If you subtract -7 from 5, what is the difference?",
+        answer: "12",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What is the absolute value of -9?",
-        answer: "9",
+        question: "If you subtract 9 from -6, what is the difference?",
+        answer: "-15",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What is the absolute value of -104?",
-        answer: "104",
+        question: "If you subtract -10 from -2, what is the difference?",
+        answer: "8",
         consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -1?",
-        answer: "1",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -74?",
-        answer: "74",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-    ],
-    29: [
-      {
-        question: "What is the absolute value of -15?",
-        answer: "15",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -55?",
-        answer: "55",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -19?",
-        answer: "19",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -16?",
-        answer: "16",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -9?",
-        answer: "9",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -104?",
-        answer: "104",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -1?",
-        answer: "1",
-        consequence: 1,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What is the absolute value of -74?",
-        answer: "74",
-        consequence: 1,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
     ],
     35: [
       {
-        question: "What integer represents a loss of 12 dollars?",
-        answer: "-12",
+        question: "If you multiply -4 by -6, what is the product?",
+        answer: "24",
         consequence: 2,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What integer represents a loss of 22 dollars?",
-        answer: "-22",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What integer represents a loss of 16 dollars?",
-        answer: "-16",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What integer represents a loss of 19 dollars?",
-        answer: "-19",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "What integer represents a loss of 35 dollars?",
+        question: "If you multiply -7 by 5, what is the product?",
         answer: "-35",
         consequence: 2,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What integer represents a loss of 2 dollars?",
-        answer: "-2",
+        question: "If you multiply 6 by -2, what is the product?",
+        answer: "-12",
         consequence: 2,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What integer represents a loss of 29 dollars?",
-        answer: "-29",
+        question: "If you multiply -8 by -3, what is the product?",
+        answer: "-24",
         consequence: 2,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
-        question: "What integer represents a loss of 56 dollars?",
-        answer: "-56",
+        question: "If you multiply -9 by 4, what is the product?",
+        answer: "-36",
+        consequence: 2,
+        minus: -Math.floor(Math.random() * 10) - 1,
+      },
+      {
+        question: "If you multiply -5 by -5, what is the product?",
+        answer: "25",
         consequence: 2,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
@@ -835,114 +761,6 @@ function large() {
         minus: -Math.floor(Math.random() * 10) - 1,
       },
     ],
-    55: [
-      {
-        question: "Identify the integer that is closest to zero: -7, 2, 4, -3",
-        answer: "-3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -8, 3, 5, -2",
-        answer: "-2",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -4, 6, 7, -1",
-        answer: "-1",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -10, 1, 2, -6",
-        answer: "1",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -5, 4, 9, -3",
-        answer: "-3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -2, 6, -1, 0",
-        answer: "0",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -3, -9, 5, -7",
-        answer: "-3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question: "Identify the integer that is closest to zero: -6, 8, 3, -4",
-        answer: "3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-    ],
-    57: [
-      {
-        question:
-          "Identify the integer that is closest to zero: -11, -5, 6, 3, -7",
-        answer: "3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: 12, -4, -8, -1, 2",
-        answer: "-1",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: -14, 5, 9, -6, -3",
-        answer: "-3",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: 100, -30, -67, -21, 22",
-        answer: "-21",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: -89, 51, -72, 16, -23",
-        answer: "16",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: -6, -2, -7, 0, 3",
-        answer: "0",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: -8, 7, -9, 4, -1",
-        answer: "-1",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Identify the integer that is closest to zero: -72, 48, -38, -11, 23",
-        answer: "-11",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-    ],
     62: [
       {
         question:
@@ -1053,122 +871,7 @@ function large() {
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
-    ],
-    67: [
-      {
-        question:
-          "Which of the following numbers is the least: -3, 1, -5, 4, 0?",
-        answer: "-5",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: 7, -9, 4, -2, 0?",
-        answer: "-9",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -6, -3, 5, -1, 0?",
-        answer: "5",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: 10, -4, -12, 2, 0?",
-        answer: "-12",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -8, -5, 0, 2, -1?",
-        answer: "2",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: -1, 3, 0, -4, 5?",
-        answer: "-4",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -7, -3, -5, 0, -2?",
-        answer: "0",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: 2, -8, 4, -3, 1?",
-        answer: "-8",
-        consequence: 2,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-    ],
-    70: [
-      {
-        question:
-          "Which of the following numbers is the least: 45, -32, 27, -19, 12?",
-        answer: "-32",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -56, -23, 13, -17, 8?",
-        answer: "13",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: 19, -45, 32, -28, 25?",
-        answer: "-45",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -33, -18, -22, 4, 2?",
-        answer: "4",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: -71, 50, -62, 47, -39?",
-        answer: "-71",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -14, -22, 3, -9, 5?",
-        answer: "5",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the least: -80, 55, -64, -72, 34?",
-        answer: "-80",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Which of the following numbers is the greatest: -24, -21, -18, -15, -12?",
-        answer: "-12",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
+
     ],
     74: [
       {
@@ -1223,57 +926,43 @@ function large() {
     75: [
       {
         question:
-          "Arrange the following integers in ascending order: 4, -2, 1, -5, 0 (Do not add space between the numbers, use coma(,))",
-        answer: "-5,-2,0,1,4",
+          "What do you get when you divide -72 by 8?",
+        answer: "-9",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
         question:
-          "Arrange the following integers in ascending order: -7, 3, -1, 8, 6 (Do not add space between the numbers, use coma(,))",
-        answer: "-7,-1,3,6,8",
+          "What do you get when you divide 36 by -6?",
+        answer: "-6",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
         question:
-          "Arrange the following integers in ascending order: -10, 9, 4, -3, 6 (Do not add space between the numbers, use coma(,))",
-        answer: "-10,-3,4,6,9",
+          "What do you get when you divide -48 by 12?",
+        answer: "-4",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
         question:
-          "Arrange the following integers in ascending order: 2, -6, 5, -3, 0 (Do not add space between the numbers, use coma(,))",
-        answer: "-6,-3,0,2,5",
+          "What do you get when you divide 90 by -15?",
+        answer: "-6",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
         question:
-          "Arrange the following integers in ascending order: 12, -8, 0, -2, 7 (Do not add space between the numbers, use coma(,))",
-        answer: "-8,-2,0,7,12",
+          "What do you get when you divide -63 by 9?",
+        answer: "-7",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
       {
         question:
-          "Arrange the following integers in ascending order: -1, 4, -3, 8, 0 (Do not add space between the numbers, use coma(,))",
-        answer: "-3,-1,0,4,8",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Arrange the following integers in ascending order: 6, -4, 3, -1, -2 (Do not add space between the numbers, use coma(,))",
-        answer: "-4,-2,-1,3,6",
-        consequence: 3,
-        minus: -Math.floor(Math.random() * 10) - 1,
-      },
-      {
-        question:
-          "Arrange the following integers in ascending order: -5, 0, 7, -8, 2 (Do not add space between the numbers, use coma(,))",
-        answer: "-8,-5,0,2,7",
+          "What do you get when you divide 56 by -7?",
+        answer: "-8",
         consequence: 3,
         minus: -Math.floor(Math.random() * 10) - 1,
       },
